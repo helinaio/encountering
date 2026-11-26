@@ -29,7 +29,7 @@
 
 ```
 yu/      旧入口，只说明上传页已迁走。不要再把话题卡接到大屏
-wall/    大屏，以及 wall/upload/（index.html / app.js / config.js / sw.js / header.jpg）
+wall/    大屏，以及 wall/upload/（index.html / app.js / config.js / sw.js / mushenzhen-full-green.svg）
          其余：config.js / server.js / worker.js / wrangler.toml / vendor/ / assets/
 sql/     建库、迁移，以及 mushenzhen-2026-rls.sql（上场前人工执行）
 ```
