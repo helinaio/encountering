@@ -33,7 +33,7 @@ sql/     Supabase 建库、迁移，以及上场前要执行的权限脚本
 4. 观众选一张照片，可写说明；联系方式默认关闭，打开后只提交文字。勾选同意后才能上传
 5. 按 `M` 可隐藏刚传的测试照片。根地址不带 `?e=` 仍是活动索引
 
-本地看上传页：`node wall/server.js`，打开 `http://127.0.0.1:7100/upload/?e=mushenzhen-2026`。
+本地看上传页：`node wall/server.js`，打开 `http://127.0.0.1:7100/upload/?e=mushenzhen-2026`。本机和 GitHub Pages 上点上传不会写入正式照片墙。
 
 ## 活动后导出照片
 
